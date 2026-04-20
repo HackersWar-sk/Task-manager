@@ -1,4 +1,4 @@
-const API = "http://127.0.0.1:8000";
+const API = "https://task-manager-backend-y1o5.onrender.com";
 
 async function login() {
     const email = document.getElementById("email").value;
